@@ -36,6 +36,7 @@ body
     border-right: 2px dotted #444444;
     height: 25px;
     font-size: 18px;
+    min-width: 120px;
 }
 
 .option:hover
