@@ -72,16 +72,6 @@ body
     text-align: justify;
 }
 
-#sidebar
-{
-    float: left;
-    width: 158px;
-    padding: 20px;
-    background-color: #cccccc;border-right: 2px dotted black;
-    text-align: center;
-    min-height: 1150px;
-}
-
 .optionL
 {
     padding: 10px;
@@ -98,7 +88,7 @@ body
 #content
 {
     float: left;
-    width: 720px;
+    width: 920px;
     background-color: #eee7e7;
     min-height: 1100px;
     padding: 40px;
